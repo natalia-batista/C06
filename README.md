@@ -1,2 +1,1 @@
-Natália Pereira Batista
-GEC 2059
+Códigos desenvolvidos na disciplina de Programação Orientada a Objetos com Java (C06)
